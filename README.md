@@ -1,0 +1,2 @@
+# Rede neural com numpy
+ 
